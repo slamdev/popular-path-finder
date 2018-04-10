@@ -1,0 +1,66 @@
+[
+  {
+    "user": "U1",
+    "page": "/"
+  },
+  {
+    "user": "U1",
+    "page": "login"
+  },
+  {
+    "user": "U1",
+    "page": "subscriber"
+  },
+  {
+    "user": "U2",
+    "page": "/"
+  },
+  {
+    "user": "U2",
+    "page": "login"
+  },
+  {
+    "user": "U2",
+    "page": "subscriber"
+  },
+  {
+    "user": "U3",
+    "page": "/"
+  },
+  {
+    "user": "U3",
+    "page": "login"
+  },
+  {
+    "user": "U3",
+    "page": "product"
+  },
+  {
+    "user": "U1",
+    "page": "/"
+  },
+  {
+    "user": "U4",
+    "page": "/"
+  },
+  {
+    "user": "U4",
+    "page": "login"
+  },
+  {
+    "user": "U4",
+    "page": "product"
+  },
+  {
+    "user": "U5",
+    "page": "/"
+  },
+  {
+    "user": "U5",
+    "page": "login"
+  },
+  {
+    "user": "U5",
+    "page": "subscriber"
+  }
+]

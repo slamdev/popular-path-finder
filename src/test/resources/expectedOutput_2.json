@@ -1,0 +1,18 @@
+[
+  {
+    "paths": [
+      "/",
+      "login",
+      "subscriber"
+    ],
+    "frequency": 3
+  },
+  {
+    "paths": [
+      "/",
+      "login",
+      "product"
+    ],
+    "frequency": 2
+  }
+]
